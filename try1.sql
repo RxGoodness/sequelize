@@ -67,6 +67,6 @@
 -- select min(age) from users;
 -- select sum(age) from users;
 -- select ucase(first_name), lcase(last_name) from users;
-select location, count(location) from users where location= 'New York'group by location;
+-- select location, count(location) from users where location= 'New York'group by location;
 
 
